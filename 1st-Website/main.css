@@ -1,0 +1,15 @@
+.octocat > a img{
+  border: 1px solid grey;
+  width: 35%;
+}
+
+.authors img{
+  width: 5%;
+  display: inline-block;
+}
+
+
+
+
+
+/*this is commentary*/
